@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+h1 {
+    color: white;
+    
+}
+
+#puppyLove {
+    width:570px;
+    height:238px;
+}
+
+#adoption {
+    color: #FFFFFF;
+    background-color: #4CAF50;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    padding: 10px;
+}
+#pictureDog {
+    width:570px;
+    height:238px;
+}
